@@ -8,21 +8,30 @@ h1 {
 	text-align: center;
 	text: 100px;
 	color: rgb(255, 208, 0);
-	border-color: red;
+
 }
 
 .mainlogo {
 	padding-top: 20xp;			
 }
 
+.upcomingevents {
+	align-self: auto;
+}
+
+
+
 p {
 
-	float: left;
+	
 }
 .hogwartzU{
-	width: 33.33%;
-	float: right;
+padding: 30px;
+float: right;
+
 }
+
+
 .contactUsH2 {
 	font-weight: 30;
 padding: 20px;
@@ -35,9 +44,7 @@ nav {
 	color: yellow;
 }
 
-.winterwhitch{
-float: right;
-}
+
 
 .sidenav {
 	height: 100%; 
@@ -67,5 +74,9 @@ float: right;
 .mainbody {
 	margin: 10px 250px 20px 200px;
 	z-index: 1000;
+	float: right;
+}
+
+.email {
 	float: right;
 }
